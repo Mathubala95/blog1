@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(156, 153, 153);
+}
+.box-area{
+    background-color: rgb(39, 50, 66);
+    padding: 20px 50px;
+    margin: 0px -150px;
+    color: antiquewhite;
+        
+}
+.box-area1{
+    background-color: rgb(39, 50, 66);
+    padding: 25.5px;
+    color: antiquewhite;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Luscida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.box-area2{
+    background-color: rgb(39, 50, 66);
+    padding: 44px ;
+    margin: 0px -150px;
+    color: antiquewhite;
+    font-family:Arial, Helvetica, sans-serif;  
+    text-align: left;  
+}
+.box-part{
+    padding: 250px 150px;
+    margin-top: 50px;margin-bottom: 20px;margin-right:300px; margin-left: -60px;
+    background-color: rgb(48, 45, 45);
+   
+   
+}
+.combo-box1{
+    padding: 5px 10px;
+    margin-top: 50px;margin-bottom: 20px;margin-right: 100px; margin-left: 100px;
+    background-color: rgb(48, 45, 45);
+    color: rgb(156, 153, 153);
+    align-items: center;
+}
+.combo-box-1{
+    padding: 65px 40px;
+    margin: 50px 16px;
+    background-color: rgb(48, 45, 45);
+
+}
+.combo-box-2{
+    padding: 66px 10px;
+    margin: 51px 1px 15px 40px;
+    background-color: rgb(48, 45, 45);
+
+}
+.combo-box-3{
+    padding: 66px 10px;
+    margin: 50px 1px 15px 50px;
+    background-color: rgb(48, 45, 45);
+
+}
+.combo-box2{
+    padding: 80px 10px;
+    margin-top: 20px;margin-bottom: 20px;margin-right: 2px; margin-left: 15px;
+    background-color: rgb(48, 45, 45);
+    color: rgb(156, 153, 153);
+}
